@@ -1,0 +1,610 @@
+cpuOsPerformance_T object created
+Start calculation
+clock_gettime() overhead  1: 745.476
+clock_gettime() overhead  2: 679.429
+clock_gettime() overhead  3: 664.81
+clock_gettime() overhead  4: 671.286
+clock_gettime() overhead  5: 504.81
+clock_gettime() overhead  6: 502.095
+clock_gettime() overhead  7: 503.048
+clock_gettime() overhead  8: 501.81
+clock_gettime() overhead  9: 501.81
+clock_gettime() overhead  10: 501.81
+clock_gettime() overhead  11: 501.952
+clock_gettime() overhead  12: 503.286
+clock_gettime() overhead  13: 501.952
+clock_gettime() overhead  14: 503.095
+clock_gettime() overhead  15: 503.095
+clock_gettime() overhead  16: 503.095
+clock_gettime() overhead  17: 503.095
+clock_gettime() overhead  18: 503.095
+clock_gettime() overhead  19: 503.333
+clock_gettime() overhead  20: 503.286
+clock_gettime() overhead  21: 501.714
+clock_gettime() overhead  22: 503.048
+clock_gettime() overhead  23: 501.857
+clock_gettime() overhead  24: 503.095
+clock_gettime() overhead  25: 503.238
+clock_gettime() overhead  26: 503.238
+clock_gettime() overhead  27: 503.095
+clock_gettime() overhead  28: 503.095
+clock_gettime() overhead  29: 503.333
+clock_gettime() overhead  30: 503.333
+clock_gettime() overhead  31: 503.048
+clock_gettime() overhead  32: 501.857
+clock_gettime() overhead  33: 503.238
+clock_gettime() overhead  34: 503.095
+clock_gettime() overhead  35: 503.048
+clock_gettime() overhead  36: 501.857
+clock_gettime() overhead  37: 503.095
+clock_gettime() overhead  38: 503.143
+clock_gettime() overhead  39: 501.714
+clock_gettime() overhead  40: 503.095
+clock_gettime() overhead  41: 503.048
+clock_gettime() overhead  42: 501.857
+clock_gettime() overhead  43: 503.095
+clock_gettime() overhead  44: 503.333
+clock_gettime() overhead  45: 503.19
+clock_gettime() overhead  46: 503.048
+clock_gettime() overhead  47: 501.857
+clock_gettime() overhead  48: 503.048
+clock_gettime() overhead  49: 501.857
+clock_gettime() overhead  50: 503.048
+clock_gettime() overhead  51: 501.857
+clock_gettime() overhead  52: 503.19
+clock_gettime() overhead  53: 503.095
+clock_gettime() overhead  54: 503.048
+clock_gettime() overhead  55: 501.952
+clock_gettime() overhead  56: 503.238
+clock_gettime() overhead  57: 503.333
+clock_gettime() overhead  58: 503.286
+clock_gettime() overhead  59: 501.81
+clock_gettime() overhead  60: 501.81
+clock_gettime() overhead  61: 501.952
+clock_gettime() overhead  62: 503.095
+clock_gettime() overhead  63: 503.048
+clock_gettime() overhead  64: 501.857
+clock_gettime() overhead  65: 503.286
+clock_gettime() overhead  66: 501.81
+clock_gettime() overhead  67: 501.619
+clock_gettime() overhead  68: 503.381
+clock_gettime() overhead  69: 501.619
+clock_gettime() overhead  70: 503.048
+clock_gettime() overhead  71: 666.952
+clock_gettime() overhead  72: 655.381
+clock_gettime() overhead  73: 696.048
+clock_gettime() overhead  74: 681.333
+clock_gettime() overhead  75: 668.429
+clock_gettime() overhead  76: 503.762
+clock_gettime() overhead  77: 501.714
+clock_gettime() overhead  78: 501.905
+clock_gettime() overhead  79: 501.667
+clock_gettime() overhead  80: 502.095
+clock_gettime() overhead  81: 501.952
+clock_gettime() overhead  82: 501.905
+clock_gettime() overhead  83: 501.762
+clock_gettime() overhead  84: 501.81
+clock_gettime() overhead  85: 501.857
+clock_gettime() overhead  86: 501.81
+clock_gettime() overhead  87: 502.048
+clock_gettime() overhead  88: 501.905
+clock_gettime() overhead  89: 501.952
+clock_gettime() overhead  90: 501.857
+clock_gettime() overhead  91: 502
+clock_gettime() overhead  92: 501.905
+clock_gettime() overhead  93: 501.857
+clock_gettime() overhead  94: 501.667
+clock_gettime() overhead  95: 501.857
+clock_gettime() overhead  96: 501.619
+clock_gettime() overhead  97: 501.81
+clock_gettime() overhead  98: 551.381
+clock_gettime() overhead  99: 2639.67
+clock_gettime() overhead  100: 636.476
+average clock_gettime call overhead in nano second: -nan
+loop overhead  1: -14.5333
+loop overhead  2: -12.84
+loop overhead  3: -12.1867
+loop overhead  4: -15.3333
+loop overhead  5: -14.0133
+loop overhead  6: -12.1333
+loop overhead  7: -9.97333
+loop overhead  8: -9.72
+loop overhead  9: -9.70667
+loop overhead  10: -9.73333
+loop overhead  11: -9.92
+loop overhead  12: -10
+loop overhead  13: -9.72
+loop overhead  14: -9.65333
+loop overhead  15: -9.72
+loop overhead  16: -9.69333
+loop overhead  17: -9.64
+loop overhead  18: -9.68
+loop overhead  19: -9.68
+loop overhead  20: -9.74667
+loop overhead  21: -9.65333
+loop overhead  22: -9.58667
+loop overhead  23: -9.68
+loop overhead  24: -9.72
+loop overhead  25: -9.65333
+loop overhead  26: -9.65333
+loop overhead  27: -9.68
+loop overhead  28: -9.74667
+loop overhead  29: -9.69333
+loop overhead  30: -9.65333
+loop overhead  31: -9.74667
+loop overhead  32: -9.65333
+loop overhead  33: -9.65333
+loop overhead  34: -9.73333
+loop overhead  35: -9.74667
+loop overhead  36: -9.73333
+loop overhead  37: -9.72
+loop overhead  38: -9.72
+loop overhead  39: -9.61333
+loop overhead  40: -9.58667
+loop overhead  41: -9.69333
+loop overhead  42: -9.65333
+loop overhead  43: -9.6
+loop overhead  44: -9.68
+loop overhead  45: -9.58667
+loop overhead  46: -9.72
+loop overhead  47: -9.65333
+loop overhead  48: -9.68
+loop overhead  49: -9.68
+loop overhead  50: -9.68
+loop overhead  51: -9.65333
+loop overhead  52: -9.65333
+loop overhead  53: -9.72
+loop overhead  54: -9.62667
+loop overhead  55: -9.68
+loop overhead  56: -9.62667
+loop overhead  57: -9.6
+loop overhead  58: -9.65333
+loop overhead  59: -9.65333
+loop overhead  60: -9.69333
+loop overhead  61: -9.65333
+loop overhead  62: -9.65333
+loop overhead  63: -9.65333
+loop overhead  64: -9.69333
+loop overhead  65: -9.68
+loop overhead  66: -13.04
+loop overhead  67: -15.6
+loop overhead  68: -13.92
+loop overhead  69: -13.1733
+loop overhead  70: -12.2133
+loop overhead  71: -14.7867
+loop overhead  72: -14.1467
+loop overhead  73: -13.9733
+loop overhead  74: -15.4
+loop overhead  75: -16.2267
+loop overhead  76: -13.5867
+loop overhead  77: -12.5867
+loop overhead  78: -15.1467
+loop overhead  79: -13.2
+loop overhead  80: -13.2
+loop overhead  81: -14.28
+loop overhead  82: -13.2667
+loop overhead  83: -9.88
+loop overhead  84: -9.81333
+loop overhead  85: -9.70667
+loop overhead  86: -9.82667
+loop overhead  87: -9.73333
+loop overhead  88: -9.72
+loop overhead  89: -9.82667
+loop overhead  90: -9.76
+loop overhead  91: -9.72
+loop overhead  92: -9.74667
+loop overhead  93: -9.8
+loop overhead  94: -9.81333
+loop overhead  95: -9.74667
+loop overhead  96: -9.72
+loop overhead  97: -9.76
+loop overhead  98: -9.76
+loop overhead  99: -9.73333
+loop overhead  100: -9.8
+average loop overhead (per iteration) in nano second: 41975
+process creation overhead  1: 93481
+process creation overhead  2: 102216
+process creation overhead  3: 100658
+process creation overhead  4: 109968
+process creation overhead  5: 111049
+process creation overhead  6: 58839
+process creation overhead  7: 102023
+process creation overhead  8: 122487
+process creation overhead  9: 89972
+process creation overhead  10: 101065
+process creation overhead  11: 99924
+process creation overhead  12: 99782
+process creation overhead  13: 105023
+process creation overhead  14: 107013
+process creation overhead  15: 102177
+process creation overhead  16: 97555
+process creation overhead  17: 97989
+process creation overhead  18: 96445
+process creation overhead  19: 223859
+process creation overhead  20: 95797
+process creation overhead  21: 94229
+process creation overhead  22: 91936
+process creation overhead  23: 93582
+process creation overhead  24: 96838
+process creation overhead  25: 94296
+process creation overhead  26: 167262
+process creation overhead  27: 92949
+process creation overhead  28: 99511
+process creation overhead  29: 95872
+process creation overhead  30: 96625
+process creation overhead  31: 101131
+process creation overhead  32: 91493
+process creation overhead  33: 126783
+process creation overhead  34: 115720
+process creation overhead  35: 111716
+process creation overhead  36: 92377
+process creation overhead  37: 87602
+process creation overhead  38: 102125
+process creation overhead  39: 101230
+process creation overhead  40: 96042
+process creation overhead  41: 90278
+process creation overhead  42: 101216
+process creation overhead  43: 94053
+process creation overhead  44: 92196
+process creation overhead  45: 98354
+process creation overhead  46: 104779
+process creation overhead  47: 104593
+process creation overhead  48: 111943
+process creation overhead  49: 119719
+process creation overhead  50: 105609
+process creation overhead  51: 99289
+process creation overhead  52: 148129
+process creation overhead  53: 102267
+process creation overhead  54: 103632
+process creation overhead  55: 95846
+process creation overhead  56: 110411
+process creation overhead  57: 160719
+process creation overhead  58: 93272
+process creation overhead  59: 104734
+process creation overhead  60: 101714
+process creation overhead  61: 101244
+process creation overhead  62: 109023
+process creation overhead  63: 100101
+process creation overhead  64: 102936
+process creation overhead  65: 74774
+process creation overhead  66: 107962
+process creation overhead  67: 106090
+process creation overhead  68: 100349
+process creation overhead  69: 102132
+process creation overhead  70: 101627
+process creation overhead  71: 98875
+process creation overhead  72: 107831
+process creation overhead  73: 107119
+process creation overhead  74: 95008
+process creation overhead  75: 98195
+process creation overhead  76: 107535
+process creation overhead  77: 98924
+process creation overhead  78: 100669
+process creation overhead  79: 98120
+process creation overhead  80: 100789
+process creation overhead  81: 89363
+process creation overhead  82: 81711
+process creation overhead  83: 79881
+process creation overhead  84: 81134
+process creation overhead  85: 79245
+process creation overhead  86: 85735
+process creation overhead  87: 80036
+process creation overhead  88: 66101
+process creation overhead  89: 65882
+process creation overhead  90: 71497
+process creation overhead  91: 78316
+process creation overhead  92: 86577
+process creation overhead  93: 83468
+process creation overhead  94: 87092
+process creation overhead  95: 84668
+process creation overhead  96: 82981
+process creation overhead  97: 95147
+process creation overhead  98: 72479
+process creation overhead  99: 96323
+process creation overhead  100: 49690
+average process creation overhead in nano second: 141235
+thread creation overhead  1: 57545
+thread creation overhead  2: 29620
+thread creation overhead  3: 20790
+thread creation overhead  4: 20481
+thread creation overhead  5: 21594
+thread creation overhead  6: 21444
+thread creation overhead  7: 17614
+thread creation overhead  8: 9957
+thread creation overhead  9: 10678
+thread creation overhead  10: 9803
+thread creation overhead  11: 7773
+thread creation overhead  12: 5635
+thread creation overhead  13: 5807
+thread creation overhead  14: 5555
+thread creation overhead  15: 5495
+thread creation overhead  16: 5960
+thread creation overhead  17: 5676
+thread creation overhead  18: 5751
+thread creation overhead  19: 5415
+thread creation overhead  20: 5609
+thread creation overhead  21: 5362
+thread creation overhead  22: 5477
+thread creation overhead  23: 5821
+thread creation overhead  24: 5508
+thread creation overhead  25: 5354
+thread creation overhead  26: 5413
+thread creation overhead  27: 5428
+thread creation overhead  28: 5404
+thread creation overhead  29: 5816
+thread creation overhead  30: 5592
+thread creation overhead  31: 5719
+thread creation overhead  32: 5606
+thread creation overhead  33: 6648
+thread creation overhead  34: 5739
+thread creation overhead  35: 5732
+thread creation overhead  36: 6072
+thread creation overhead  37: 6040
+thread creation overhead  38: 5636
+thread creation overhead  39: 5736
+thread creation overhead  40: 5727
+thread creation overhead  41: 6017
+thread creation overhead  42: 5881
+thread creation overhead  43: 5862
+thread creation overhead  44: 6196
+thread creation overhead  45: 6677
+thread creation overhead  46: 5595
+thread creation overhead  47: 5441
+thread creation overhead  48: 5445
+thread creation overhead  49: 5414
+thread creation overhead  50: 5675
+thread creation overhead  51: 5472
+thread creation overhead  52: 5399
+thread creation overhead  53: 5708
+thread creation overhead  54: 5432
+thread creation overhead  55: 6580
+thread creation overhead  56: 5558
+thread creation overhead  57: 5439
+thread creation overhead  58: 5390
+thread creation overhead  59: 5473
+thread creation overhead  60: 5426
+thread creation overhead  61: 5504
+thread creation overhead  62: 5417
+thread creation overhead  63: 5415
+thread creation overhead  64: 5476
+thread creation overhead  65: 6304
+thread creation overhead  66: 5376
+thread creation overhead  67: 5393
+thread creation overhead  68: 8767
+thread creation overhead  69: 7751
+thread creation overhead  70: 7072
+thread creation overhead  71: 9347
+thread creation overhead  72: 7156
+thread creation overhead  73: 5665
+thread creation overhead  74: 7003
+thread creation overhead  75: 7262
+thread creation overhead  76: 7112
+thread creation overhead  77: 6944
+thread creation overhead  78: 7265
+thread creation overhead  79: 7079
+thread creation overhead  80: 7279
+thread creation overhead  81: 7228
+thread creation overhead  82: 7027
+thread creation overhead  83: 7141
+thread creation overhead  84: 7053
+thread creation overhead  85: 7222
+thread creation overhead  86: 7100
+thread creation overhead  87: 7590
+thread creation overhead  88: 7171
+thread creation overhead  89: 6996
+thread creation overhead  90: 9205
+thread creation overhead  91: 7125
+thread creation overhead  92: 7054
+thread creation overhead  93: 6955
+thread creation overhead  94: 7050
+thread creation overhead  95: 7092
+thread creation overhead  96: 7372
+thread creation overhead  97: 7049
+thread creation overhead  98: 6994
+thread creation overhead  99: 7011
+thread creation overhead  100: 8186
+average thread creation overhead in nano second: 49838.2
+process context switch  1: 31253
+process context switch  2: 28128
+process context switch  3: 29308
+process context switch  4: 25548
+process context switch  5: 27932
+process context switch  6: 27088
+process context switch  7: 24389
+process context switch  8: 27735
+process context switch  9: 24509
+process context switch  10: 26871
+process context switch  11: 26130
+process context switch  12: 28195
+process context switch  13: 27459
+process context switch  14: 26861
+process context switch  15: 27382
+process context switch  16: 25241
+process context switch  17: 26242
+process context switch  18: 25564
+process context switch  19: 28016
+process context switch  20: 27722
+process context switch  21: 26767
+process context switch  22: 27923
+process context switch  23: 19819
+process context switch  24: 19896
+process context switch  25: 17973
+process context switch  26: 20074
+process context switch  27: 20051
+process context switch  28: 19640
+process context switch  29: 20328
+process context switch  30: 18199
+process context switch  31: 20381
+process context switch  32: 18311
+process context switch  33: 20116
+process context switch  34: 18902
+process context switch  35: 19749
+process context switch  36: 20604
+process context switch  37: 18794
+process context switch  38: 20459
+process context switch  39: 29063
+process context switch  40: 27777
+process context switch  41: 25835
+process context switch  42: 136595
+process context switch  43: 65410
+process context switch  44: 76602
+process context switch  45: 80954
+process context switch  46: 84591
+process context switch  47: 90716
+process context switch  48: 123647
+process context switch  49: 149141
+process context switch  50: 141576
+process context switch  51: 135008
+process context switch  52: 150413
+process context switch  53: 137271
+process context switch  54: 139441
+process context switch  55: 138386
+process context switch  56: 147359
+process context switch  57: 142536
+process context switch  58: 136622
+process context switch  59: 48194
+process context switch  60: 50200
+process context switch  61: 50413
+process context switch  62: 45640
+process context switch  63: 95391
+process context switch  64: 148382
+process context switch  65: 94266
+process context switch  66: 147655
+process context switch  67: 87887
+process context switch  68: 91959
+process context switch  69: 86923
+process context switch  70: 95961
+process context switch  71: 139705
+process context switch  72: 83960
+process context switch  73: 89062
+process context switch  74: 88734
+process context switch  75: 90782
+process context switch  76: 83297
+process context switch  77: 91907
+process context switch  78: 72757
+process context switch  79: 138946
+process context switch  80: 139606
+process context switch  81: 138447
+process context switch  82: 87615
+process context switch  83: 88466
+process context switch  84: 90978
+process context switch  85: 142642
+process context switch  86: 80651
+process context switch  87: 50025
+process context switch  88: 75527
+process context switch  89: 92237
+process context switch  90: 56048
+process context switch  91: 52332
+process context switch  92: 206389
+process context switch  93: 166920
+process context switch  94: 152238
+process context switch  95: 108941
+process context switch  96: 129432
+process context switch  97: 98245
+process context switch  98: 61367
+process context switch  99: 164934
+process context switch  100: 79132
+average process context switch overhead in nano second: 135567
+thread context switch  1: 72902
+thread context switch  2: 35290
+thread context switch  3: 129154
+thread context switch  4: 31288
+thread context switch  5: 129697
+thread context switch  6: 32507
+thread context switch  7: 130013
+thread context switch  8: 4487
+thread context switch  9: 4479
+thread context switch  10: 4546
+thread context switch  11: 4493
+thread context switch  12: 4640
+thread context switch  13: 4471
+thread context switch  14: 2697
+thread context switch  15: 2482
+thread context switch  16: 1825
+thread context switch  17: 1757
+thread context switch  18: 1825
+thread context switch  19: 1798
+thread context switch  20: 1790
+thread context switch  21: 1710
+thread context switch  22: 1737
+thread context switch  23: 1787
+thread context switch  24: 1777
+thread context switch  25: 1851
+thread context switch  26: 1780
+thread context switch  27: 1771
+thread context switch  28: 1722
+thread context switch  29: 1802
+thread context switch  30: 1793
+thread context switch  31: 1807
+thread context switch  32: 1720
+thread context switch  33: 1729
+thread context switch  34: 1803
+thread context switch  35: 1747
+thread context switch  36: 1729
+thread context switch  37: 1727
+thread context switch  38: 1741
+thread context switch  39: 1755
+thread context switch  40: 1739
+thread context switch  41: 1787
+thread context switch  42: 1821
+thread context switch  43: 1784
+thread context switch  44: 1769
+thread context switch  45: 1786
+thread context switch  46: 1724
+thread context switch  47: 1728
+thread context switch  48: 1769
+thread context switch  49: 1795
+thread context switch  50: 1718
+thread context switch  51: 1707
+thread context switch  52: 1741
+thread context switch  53: 1773
+thread context switch  54: 1774
+thread context switch  55: 1752
+thread context switch  56: 1754
+thread context switch  57: 1773
+thread context switch  58: 110481
+thread context switch  59: 2684
+thread context switch  60: 2354
+thread context switch  61: 2189
+thread context switch  62: 97600
+thread context switch  63: 10414
+thread context switch  64: 170430
+thread context switch  65: 40145
+thread context switch  66: 10944
+thread context switch  67: 60423
+thread context switch  68: 6154
+thread context switch  69: 5958
+thread context switch  70: 5948
+thread context switch  71: 3242
+thread context switch  72: 3017
+thread context switch  73: 2271
+thread context switch  74: 2321
+thread context switch  75: 2199
+thread context switch  76: 2180
+thread context switch  77: 2199
+thread context switch  78: 2254
+thread context switch  79: 2189
+thread context switch  80: 2148
+thread context switch  81: 2233
+thread context switch  82: 2112
+thread context switch  83: 2131
+thread context switch  84: 2181
+thread context switch  85: 2235
+thread context switch  86: 2166
+thread context switch  87: 2156
+thread context switch  88: 2188
+thread context switch  89: 2145
+thread context switch  90: 2167
+thread context switch  91: 2173
+thread context switch  92: 2099
+thread context switch  93: 2134
+thread context switch  94: 2105
+thread context switch  95: 2164
+thread context switch  96: 2120
+thread context switch  97: 2094
+thread context switch  98: 2084
+thread context switch  99: 2217
+thread context switch  100: 2083
+average thread context switch overhead in nano second: 1.39861e+12
+Done calculation
+cpuOsPerformance_T object destroyed
