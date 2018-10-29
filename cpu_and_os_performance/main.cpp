@@ -14,6 +14,27 @@ int main() {
 
 	cout << "Start calculation" << endl;
 
+	// Read time test
+	long double result_time;
+	for(int i= 0; i <100;i++)
+	{
+		long double temp = testCpu.readTimeOverhead();	
+		cout << "clock_gettime() overhead  " << i+1 << ": " << temp <<endl;
+		result_time = result_time + temp;	
+	}
+	cout << "average clock_gettime call overhead in nano second: " << result_time / 100.0 <<endl;
+
+	// Loop overhead test
+	long double result_loop;
+	for(int i= 0; i <100;i++)
+	{
+		long double temp = testCpu.loopOverhead();	
+		cout << "loop overhead  " << i+1 << ": " << temp <<endl;
+		result_loop = result_loop + temp;	
+	}
+	cout << "average loop overhead (per iteration) in nano second: " << result1 / 100.0 <<endl;
+
+	// Process creation overhead test
 	for(int i= 0; i <100;i++)
 	{
 		long temp = testCpu.processCreationOverhead();	

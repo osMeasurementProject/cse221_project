@@ -20,6 +20,8 @@ class cpuOsPerformance_T
 	public:
 		cpuOsPerformance_T();
 		~cpuOsPerformance_T();
+		long double readTimeOverhead();
+		long double loopOverhead();
 		long double processContextSwitchOverhead();
 		long double threadContextSwitchOverhead();
 		long double processCreationOverhead();
